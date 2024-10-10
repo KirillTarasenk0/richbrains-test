@@ -1,0 +1,16 @@
+{
+    "name": "ktara/richbrains-test",
+    "description": "Test task for richbrains",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kirill Tarasenko",
+            "email": "ktarasenko003@gmail.com"
+        }
+    ],
+    "require": {}
+}
